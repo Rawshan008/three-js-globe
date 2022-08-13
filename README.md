@@ -1,6 +1,6 @@
 ## Installation
 
-clone repositories then run this command.
+clone repository then run this command.
 ```bash
 cd three-js-globe
 ```
